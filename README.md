@@ -1,5 +1,5 @@
 <div>
-   <a href="https://github.com/lucas-cruz-i>
+   <a href="https://github.com/lucas-cruz-i">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-cruz-t&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-cruz-t&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
