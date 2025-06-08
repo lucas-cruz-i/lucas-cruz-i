@@ -63,20 +63,4 @@ Me chamo Lucas Cruz Teixeira, tenho 22 anos. Atualmente, estou cursando Análise
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=lucas-cruz-i&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-cruz-i&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
-  />
-
-</p>
+<div align="center"> <a href="https://github.com/lucas-cruz-i"> <img width="45%" src="https://github-readme-stats.vercel.app/api?username=lucas-cruz-i&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Lucas Cruz" /> </a> <a href="https://github.com/lucas-cruz-i"> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-cruz-i&layout=compact&theme=tokyonight&hide_border=true&title=Principais Linguagens&langs_count=8" alt="Linguagens mais usadas por Lucas Cruz" /> </a> </div>
