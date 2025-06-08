@@ -76,7 +76,7 @@ Me chamo Lucas Cruz Teixeira, tenho 22 anos. Atualmente, estou cursando Análise
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-cruz-i&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-cruz-i&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
 
 </p>
